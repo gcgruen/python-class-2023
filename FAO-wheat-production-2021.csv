@@ -1,253 +1,127 @@
 area,year,wheat_production_tonnes
-Afghanistan,2020,5185000
 Afghanistan,2021,3900000
-Albania,2020,233430
 Albania,2021,225170
-Algeria,2020,3106754
 Algeria,2021,2168386
-Angola,2020,2938
 Angola,2021,2945
-Argentina,2020,19776942
 Argentina,2021,17644277
-Armenia,2020,131951
 Armenia,2021,97000
-Australia,2020,14480217
 Australia,2021,31922554
-Austria,2020,1652740
 Austria,2021,1547600
-Azerbaijan,2020,1818664
 Azerbaijan,2021,1837188
-Bangladesh,2020,1029000
 Bangladesh,2021,1085368
-Belarus,2020,2848391
 Belarus,2021,2441000
-Belgium,2020,1741480
 Belgium,2021,1629180
-Bhutan,2020,1623
 Bhutan,2021,1168
-Bolivia (Plurinational State of),2020,311310
 Bolivia (Plurinational State of),2021,336222
-Bosnia and Herzegovina,2020,321804
 Bosnia and Herzegovina,2021,314382
-Botswana,2020,1028
 Botswana,2021,1280
-Brazil,2020,6347987
 Brazil,2021,7874525
-Bulgaria,2020,4847940
 Bulgaria,2021,7342990
-Burundi,2020,8634
 Burundi,2021,8806
-Cameroon,2020,435
 Cameroon,2021,633
-Canada,2020,35437200
 Canada,2021,22296100
-Chad,2020,1815
 Chad,2021,1539
-Chile,2020,1230988
 Chile,2021,1353607
-China,2020,134250000
 China,2021,136946000
-Taiwan,2020,6000
 Taiwan,2021,6000
-Colombia,2020,6295
 Colombia,2021,6965
-Croatia,2020,867530
 Croatia,2021,986930
-Cyprus,2020,32270
 Cyprus,2021,25580
-Czechia,2020,4902410
 Czechia,2021,4960930
-Democratic People's Republic of Korea,2020,89000
 Democratic People's Republic of Korea,2021,86603
-Democratic Republic of the Congo,2020,9000
 Democratic Republic of the Congo,2021,9000
-Denmark,2020,4070410
 Denmark,2021,4047090
-Ecuador,2020,14647
 Ecuador,2021,10898
-Egypt,2020,9101785
 Egypt,2021,9000000
-Eritrea,2020,25000
 Eritrea,2021,25000
-Estonia,2020,840520
 Estonia,2021,736270
-Eswatini,2020,704
 Eswatini,2021,709
-Ethiopia,2020,5478708
 Ethiopia,2021,5214000
-Finland,2020,686620
 Finland,2021,687160
-France,2020,30144110
 France,2021,36559450
-Georgia,2020,102400
 Georgia,2021,135900
-Germany,2020,22172100
 Germany,2021,21459200
-Greece,2020,1095150
 Greece,2021,1058360
-Guatemala,2020,18. May
 Guatemala,2021,291
-Honduras,2020,1250
 Honduras,2021,1255
-Hungary,2020,5121480
 Hungary,2021,5290140
-India,2020,107860510
 India,2021,109590000
-Iran (Islamic Republic of),2020,10416184
 Iran (Islamic Republic of),2021,10093578
-Iraq,2020,6238392
 Iraq,2021,4233714
-Ireland,2020,364920
 Ireland,2021,628080
-Israel,2020,116691
 Israel,2021,150000
-Italy,2020,6716180
 Italy,2021,7294570
-Japan,2020,949300
 Japan,2021,1097000
-Jordan,2020,25749
 Jordan,2021,30000
-Kazakhstan,2020,14257950
 Kazakhstan,2021,11814123
-Kenya,2020,404700
 Kenya,2021,245300
-Kuwait,2020,62
 Kuwait,2021,36
-Kyrgyzstan,2020,629051
 Kyrgyzstan,2021,362711
-Latvia,2020,2659600
 Latvia,2021,2407700
-Lebanon,2020,100000
 Lebanon,2021,100000
-Lesotho,2020,2004
 Lesotho,2021,6000
-Libya,2020,130000
 Libya,2021,130000
-Lithuania,2020,4818750
 Lithuania,2021,4248850
-Luxembourg,2020,72400
 Luxembourg,2021,76140
-Madagascar,2020,1000
 Madagascar,2021,2000
-Malawi,2020,697
 Malawi,2021,1000
-Mali,2020,37124
 Mali,2021,21000
-Malta,2020,0
 Malta,2021,0
-Mauritania,2020,7257
 Mauritania,2021,7000
-Mexico,2020,2986689
 Mexico,2021,3283613
-Mongolia,2020,406129
 Mongolia,2021,566273
-Montenegro,2020,2239
 Montenegro,2021,2391
-Morocco,2020,2561897
 Morocco,2021,7543847
-Mozambique,2020,15000
 Mozambique,2021,15000
-Myanmar,2020,105457
 Myanmar,2021,100000
-Namibia,2020,12000
 Namibia,2021,18337
-Nepal,2020,2185289
 Nepal,2021,2127276
-Netherlands (Kingdom of the),2020,931830
 Netherlands (Kingdom of the),2021,947250
-New Caledonia,2020,53
 New Caledonia,2021,84
-New Zealand,2020,453749
 New Zealand,2021,422831
-Niger,2020,4275
 Niger,2021,4628
-Nigeria,2020,55000
 Nigeria,2021,90000
-North Macedonia,2020,246031
 North Macedonia,2021,243676
-Norway,2020,322500
 Norway,2021,266600
-Oman,2020,2865
 Oman,2021,3542
-Pakistan,2020,25247511
 Pakistan,2021,27464081
-Palestine,2020,34388
 Palestine,2021,34396
-Paraguay,2020,1302870
 Paraguay,2021,927776
-Peru,2020,186835
 Peru,2021,202725
-Poland,2020,12515060
 Poland,2021,11893550
-Portugal,2020,83500
 Portugal,2021,69440
-Qatar,2020,02. Mar
 Qatar,2021,252
-Republic of Korea,2020,16985
 Republic of Korea,2021,30000
-Republic of Moldova,2020,569735
 Republic of Moldova,2021,1565200
-Romania,2020,6392370
 Romania,2021,10433750
-Russian Federation,2020,85896325
 Russian Federation,2021,76057258
-Rwanda,2020,12811
 Rwanda,2021,13684
-Saudi Arabia,2020,554562
 Saudi Arabia,2021,612582
-Serbia,2020,2873503
 Serbia,2021,3442308
-Slovakia,2020,2133330
 Slovakia,2021,2002240
-Slovenia,2020,158180
 Slovenia,2021,154450
-Somalia,2020,1047
 Somalia,2021,1050
-South Africa,2020,2120000
 South Africa,2021,2257205
-South Sudan,2020,0
 South Sudan,2021,0
-Spain,2020,8143510
 Spain,2021,8564630
-Sudan,2020,717578
 Sudan,2021,600000
-Sweden,2020,3214300
 Sweden,2021,3027800
-Switzerland,2020,528720
 Switzerland,2021,401202
-Syrian Arab Republic,2020,2848471
 Syrian Arab Republic,2021,1951805
-Tajikistan,2020,846000
 Tajikistan,2021,852000
-Thailand,2020,1325
 Thailand,2021,1317
-Tunisia,2020,1042000
 Tunisia,2021,1193000
-Türkiye,2020,20500000
 Türkiye,2021,17650000
-Turkmenistan,2020,1480733
 Turkmenistan,2021,1367092
-Uganda,2020,25000
 Uganda,2021,25000
-Ukraine,2020,24912350
 Ukraine,2021,32183300
-United Arab Emirates,2020,0
 United Arab Emirates,2021,0
-United Kingdom of Great Britain and Northern Ireland,2020,9658000
 United Kingdom of Great Britain and Northern Ireland,2021,13988000
-United Republic of Tanzania,2020,77276
 United Republic of Tanzania,2021,70000
-United States of America,2020,49751180
 United States of America,2021,44790360
-Uruguay,2020,776300
 Uruguay,2021,936400
-Uzbekistan,2020,6157844
 Uzbekistan,2021,5984756
-Venezuela (Bolivarian Republic of),2020,662
 Venezuela (Bolivarian Republic of),2021,550
-Yemen,2020,130000
 Yemen,2021,125000
-Zambia,2020,191619
 Zambia,2021,205881
-Zimbabwe,2020,212530
 Zimbabwe,2021,337212
